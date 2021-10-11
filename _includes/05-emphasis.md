@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ I am **BAILEY SHARON S.S** currently in **S2 CSE** who is a student in **JIT**. I am mesmerized by the beauty of this **WORLD**, and always wanted to know new things about them. I am an *extrovert* who always looks up into the bright side of helping others and enjoying the happiness with others.
