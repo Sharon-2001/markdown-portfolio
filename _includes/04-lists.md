@@ -5,4 +5,3 @@
 5. Favorite Foods 
 6.   i.Taebokki
 7.   ii.kimchi
-
