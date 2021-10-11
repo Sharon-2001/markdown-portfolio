@@ -1,1 +1,1 @@
-# Bailey Sharon S.S , WELCOME!.
+# Bailey Sharon S.S 
