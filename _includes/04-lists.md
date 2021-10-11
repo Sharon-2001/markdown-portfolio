@@ -1,8 +1,8 @@
-1. Favorite Destinations :heart:
-   i.South Korea
-   ii.Jeruseleam
-   iii.Paris
-2. Favorite Foods :sparkles:
-   i.Taebokki
-   ii.kimchi
+1. Favorite Destinations 
+2.   i.South Korea
+3.   ii.Jeruseleam
+4.   iii.Paris
+5. Favorite Foods 
+6.   i.Taebokki
+7.   ii.kimchi
 
